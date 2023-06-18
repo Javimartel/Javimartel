@@ -1,8 +1,4 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-<div align="center">
     <h1> Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"  /> I'm Javi </h1>
 </div>
 
@@ -18,7 +14,7 @@
 
 ---
 
-I am a web development student passionate about technology and programming. I love learning new things and I am always looking to improve my skills.
+I am a Full Stack developer passionate about technology and programming. I love learning new things and I am always looking to improve my skills.
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [javifullstack@gmail.com](mailto:javifullstack@gmail.com)
@@ -56,9 +52,3 @@ I am a web development student passionate about technology and programming. I lo
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Javimartel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/javimartel7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/javimartel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@javiermespino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Javimartel"><img src="https://github-readme-stats.vercel.app/api?username=Javimartel&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="Javimartel's GitHub stats" /></a>
