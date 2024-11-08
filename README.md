@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <h2>Full Stack Developer</h2>
+  <h2>Software Developer</h2>
 </div>
 
 
@@ -14,7 +14,7 @@
 
 ---
 
-I am a Full Stack developer passionate about technology and programming. I love learning new things and I am always looking to improve my skills.
+I am a software developer passionate about technology and programming. I love learning new things and I am always looking to improve my skills.
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [javifullstack@gmail.com](mailto:javifullstack@gmail.com)
